@@ -47,7 +47,7 @@ describe('fingering', () => {
   })
 
   test(Fs, () => {
-    expect(fingering(Fs).toString()).toBe(tff.toString());
+    expect(fingering(Fs).toString()).toBe(ftf.toString());
   })
 
   test(G, () => {
