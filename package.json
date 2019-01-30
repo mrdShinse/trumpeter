@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mrdShinse/trumpeter#readme",
   "devDependencies": {
-    "jest": "^20.0.4"
+    "jest": "^24.0.0"
   },
   "dependencies": {
     "tonal-note": "^0.69.9",
