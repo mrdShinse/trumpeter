@@ -1,6 +1,6 @@
 {
   "name": "trumpeter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "only one javascript library for trumpeter",
   "main": "dist/index.js",
   "scripts": {
