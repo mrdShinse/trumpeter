@@ -2,9 +2,9 @@
   "name": "trumpeter",
   "version": "0.0.1",
   "description": "only one javascript library for trumpeter",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "build": "tsc ./index.ts --outDir dist",
+    "build": "tsc --outDir dist",
     "test": "yarn build && jest"
   },
   "repository": {
