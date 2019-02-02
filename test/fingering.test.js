@@ -1,4 +1,4 @@
-const fingering = require('../dist/lib/fingering').default;
+const fingering = require('../dist/fingering').default;
 
 describe('fingering', () => {
   const fff = [false, false, false]

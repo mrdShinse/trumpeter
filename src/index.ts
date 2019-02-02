@@ -1,4 +1,4 @@
-import fingering from './lib/fingering';
+import fingering from './fingering';
 
 const trumpeter = { fingering };
 

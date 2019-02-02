@@ -1,4 +1,4 @@
-import fingeringChart from '../fingeringChart';
+import fingeringChart from './fingeringChart';
 
 const fingering = note => fingeringChart()[note];
 
