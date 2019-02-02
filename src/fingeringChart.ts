@@ -1,4 +1,4 @@
-{
+export default () =>({
   "C":  [false, false, false],
   "C#": [true,  true,  true ],
   "D":  [true,  false, true ],
@@ -11,4 +11,4 @@
   "A":  [true,  true,  false],
   "A#": [true,  false, false],
   "B":  [false, true,  false]
-}
+});
